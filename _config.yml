@@ -9,7 +9,7 @@ name: Le Perle di Erle
 description: Spiegoni & co.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/JackGiuliari/leperledierle/blob/master/images/merlo.png?raw=true
+avatar: ../blob/master/images/merlo.png?raw=true?raw=true
 
 #
 # Flags below are optional
