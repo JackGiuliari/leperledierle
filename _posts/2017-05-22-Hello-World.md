@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spiegone Numero 1!
+comments: true
 ---
 
 E' super facile scrivere spiegoni. Si formattano in modo automatico e non serve saper programmare una ceppa.
